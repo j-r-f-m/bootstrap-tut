@@ -14,6 +14,9 @@ function Navbar() {
         <Nav.Link to="/table" as={NavLink}>
           Table
         </Nav.Link>
+        <Nav.Link to="/form" as={NavLink}>
+          Form
+        </Nav.Link>
       </Nav>
     </NavbarBs>
   );
