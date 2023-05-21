@@ -11,8 +11,8 @@ function Navbar() {
         <Nav.Link to="/grid" as={NavLink}>
           Container
         </Nav.Link>
-        <Nav.Link to="/about" as={NavLink}>
-          About
+        <Nav.Link to="/table" as={NavLink}>
+          Table
         </Nav.Link>
       </Nav>
     </NavbarBs>
